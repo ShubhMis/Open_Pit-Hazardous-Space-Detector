@@ -5,7 +5,7 @@ A computer vision pipeline for detecting open pits or hazardous ground openings 
 ---
 
 ## 📌 Overview
-This project uses **YOLOv8** for object detection to identify open pits in images and videos.  
+This project uses **YOLOv11** for object detection to identify open pits in images and videos.  
 It is trained on a **custom YOLO-format dataset** with bounding box annotations for open pits under various lighting and environmental conditions.
 
 The system is designed to work in **real-time** for surveillance cameras, alerting operators when a pit is detected.
